@@ -1,5 +1,5 @@
+import '../../globals.css'
 import { useEffect, useState } from "kaioken";
-
 function App() {
   const [count, setCount] =useState(0)
 

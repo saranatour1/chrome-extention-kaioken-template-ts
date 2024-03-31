@@ -1,3 +1,4 @@
+import '../../globals.css'
 // Todo: generate a new tab that displays time.
 function App() {
   return (

@@ -1,3 +1,4 @@
+import '../../globals.css'
 import { useEffect, useState } from 'kaioken'
 
 function App() {
